@@ -1,3 +1,3 @@
 # Python_learning
 
-It's a good start.
+Something wrong happened. Try to fix it.
