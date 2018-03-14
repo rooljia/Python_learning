@@ -1,3 +1,5 @@
 # Python_learning
 
-It's a good start.
+Hi!
+I'm rooljia. I want to learnig Python programming from zero. 
+Wish me good luck!
